@@ -2,4 +2,4 @@
 > Các bạn download source về và làm theo hương dẫn trong video nhé.
 
 
-![cover picture](./hpbd2021p2.jpg)
+![cover picture](./img/hpbd2021p2.jpg)
